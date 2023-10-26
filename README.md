@@ -2,7 +2,7 @@
 <h3 align="center">A future Cloud Engineer☁️💻</h3>
 
 
-(img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47uirsmk4d6qalw27cqlwo86dxknzodhmb2szwfzef&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+(img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47uirsmk4d6qalw27cqlwo86dxknzodhmb2szwfzef&ep=v1_gifs_search&rid=giphy.gif&ct=g")
 
 
 
