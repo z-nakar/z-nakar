@@ -3,7 +3,7 @@
 
 
 ---
-<img align="right" alt="coding" width="500" height="200" src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif">
+<img align="right" alt="coding" width="500" height="400" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 <h3 align="left">Currently Learning:</h3>
 <p <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>     
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
