@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif)
+<img align="center" alt="coding" width="1000" src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif">
 <h3 align="center">A Future Cloud Engineer☁️💻</h3>
 
 
