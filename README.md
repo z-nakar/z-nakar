@@ -1,18 +1,9 @@
-<h1 align="center">Hi World👋, I'm Zairel P. Nakar</h1>
+![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)
 <h3 align="center">A future Cloud Engineer☁️💻</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+- 🌱I’m currently learning:<p <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 
-
-(img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47uirsmk4d6qalw27cqlwo86dxknzodhmb2szwfzef&ep=v1_gifs_search&rid=giphy.gif&ct=g")
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z-nakar&label=Profile%20views&color=0e75b6&style=flat" alt="z-nakar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z-nakar" alt="z-nakar" /></a> </p>
-
-- 🌱 I’m currently learning **C# and ASP.NET**
-
-- 📫 How to reach me **xairelnakar01@gmail.com**
+- 📫 How to reach me:  xairelnakar01@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +14,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z-nakar&show_icons=true&locale=en&layout=compact" alt="z-nakar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z-nakar&show_icons=true&locale=en" alt="z-nakar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z-nakar&" alt="z-nakar" /></p>
-
