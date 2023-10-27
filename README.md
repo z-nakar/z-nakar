@@ -27,5 +27,6 @@
 <a href="https://stackoverflow.com/users/22805892-codewithzaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22805892-codewithzaii" height="30" width="40" /></a>
 <a href="https://fb.com/@codewithzaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@codewithzaii" height="30" width="40" /></a>
 <a href="https://discord.gg/!zaaai#0867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!zaaai#0867" height="30" width="40" /></a>
+<a title="GitHub" href="https://github.com/z-nakar" target="blank"><img align="center" src="https://www.svgrepo.com/show/439171/github.svg" alt="Alt Account" height="40" width="40" /></a>
 </p>
 
