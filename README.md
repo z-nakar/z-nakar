@@ -30,3 +30,9 @@
 <a title="GitHub" href="https://github.com/z-nakar" target="blank"><img align="center" src="https://www.svgrepo.com/show/439171/github.svg" alt="Alt Account" height="40" width="40" /></a>
 </p>
 
+---
+<div align="center">
+<img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" /> </div>
+
+
+
