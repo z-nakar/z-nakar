@@ -34,5 +34,5 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" /> </div>
 
-
+![](https://komarev.com/ghpvc/?username=CodeWithZaii&style=flat-square)
 
