@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-<h3 align="center">Difficult doesn't mean Impossible☁️💻</h3>
+<h3 align="center">If the truth is cruel, then the lies must be kind☁💻</h3>
 
 
 ---
